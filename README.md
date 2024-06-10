@@ -25,15 +25,16 @@ Objective for property  price prediction  project
 ●	Explanation: Conduct a univariate analysis to understand the distribution of key variables like house prices. Utilize histograms, kernel density plots, or other visualizations to gain insights into the data.
 
 ![image](https://github.com/Savaliyaniks1/Project_3/assets/150412744/02e30e90-12ce-44c7-8dc5-b658d641df71)
-![image](https://github.com/Savaliyaniks1/Project_3/assets/150412744/02e30e90-12ce-44c7-8dc5-b658d641df71)
-
 ●	 
 ●	Show correlation of the data using bivariate analysis.
-●	 
-Highly correlation with property price show using heatmap.
- 
+![image](https://github.com/Savaliyaniks1/Project_3/assets/150412744/d44ba970-3a29-40b9-a064-7516ba10d277)
+
+
+●  Highly correlation with property price show using heatmap.
+![image](https://github.com/Savaliyaniks1/Project_3/assets/150412744/0f80e779-911e-402a-8c05-ae35faa0d57a)
+
 Show the direct correlation of all independent feature with dependent feature.
- 
+ ![image](https://github.com/Savaliyaniks1/Project_3/assets/150412744/63e75d1e-f9cc-46bf-b612-433942fba2e0)
 
 4. Multivariate Analysis:
 ●	Investigate relationships between multiple variables, especially those impacting house prices.
